@@ -1,0 +1,22 @@
+.container{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.row-col-sm-6{
+
+    text-align: center;
+   
+    }
+
+div.card-body{
+    align-content: center;
+}
+
+#Products{
+    align-items: center; 
+    display: flex;
+}

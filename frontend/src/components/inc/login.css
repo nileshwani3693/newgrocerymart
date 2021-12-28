@@ -1,0 +1,22 @@
+form{
+    width: 500px ;
+    background-color: white;
+    box-shadow: 5px 5px 5px rgba(0,0,0,1);
+    opacity: 0.8;
+}
+
+#headerL{
+    text-align: center;
+   margin-bottom: 20px;
+}
+
+#logoutbutton{
+
+    margin-left: 40px;
+}
+
+body{
+    background-image:url(../images/Register\ -\ Copy.png) ;
+    background-size: cover;     
+}
+ 

@@ -1,0 +1,65 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+ .logo-design{
+    width:100px;
+    height:100px;
+    padding-left: 20px;
+  
+  }
+  .modal-title-styling{
+    color:rgb(40, 66, 2);
+    text-align: center;
+    font-size: large;
+    padding-top: 0.2rem;
+  }
+  
+  .modal-body{
+    background-image: url(../images/modal-background-img.png);
+  }
+  
+  .modal-tytle-box{
+    border: solid brown;
+   
+    width: 9rem;
+    margin-left: 9rem;
+    background-color: burlywood;
+    border-radius: 2rem;
+    
+  }
+
+  .asideelement{
+    text-decoration: none;
+    color: white;
+  }
+
+  .asideelement:hover{
+    color: white;
+  }
+
+  .Logostyle{
+    margin-left: 5px;
+    padding: 10px;
+    background:conic-gradient(
+      #CA4246 16.666%, 
+      #E16541 16.666%, 
+      #E16541 33.333%, 
+      #F18F43 33.333%, 
+      #F18F43 50%, 
+      #8B9862 50%, 
+      #8B9862 66.666%, 
+      #476098 66.666%, 
+      #476098 83.333%, 
+      #A7489B 83.333% ); 
+    background-repeat: repeat;
+    
+    
+    -webkit-text-fill-color: white; 
+    font-weight:900;
+    cursor: pointer;
+  
+    font-family: 'Dancing Script', cursive;
+    font-size: x-large;
+    
+  }
+ 

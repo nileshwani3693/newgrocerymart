@@ -1,0 +1,33 @@
+
+.searchStyle{
+
+    width: 15rem;
+
+    height: 2.2rem;
+
+    margin-left: 57rem;
+
+    border-radius: 0.5rem;
+
+   
+
+}
+
+.searchbutnstyling{
+
+    width: 4.5rem;
+
+    height: 2.2rem;
+
+    border-radius: 1rem;
+
+    padding-left: 1rem;
+
+    align-content: center;
+}
+
+.searchnbtnalign{
+
+    margin-top: 4rem;
+
+}
